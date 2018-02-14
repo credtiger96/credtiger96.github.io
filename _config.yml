@@ -15,7 +15,7 @@ text_color_theme: forest  #eg: default | dark | forest | ocean | chocolate | ora
 ## Base settings ##
 # url:  #the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl: /
-title: 明天会跟好。
+title: 过则勿惮改
 description: > #this means to ignore newlines until "nav_lists:"
   Hongbeom's Blog
 
@@ -44,7 +44,7 @@ timezone: Asia/Seoul  #see https://en.wikipedia.org/wiki/List_of_tz_database_tim
 ## Author & social ##
 author:
   name: HongBeom Choi
-  email: credtiger96
+  email: credtiger96@gmail.com
   facebook: credtiger96
   # twitter:  #your Twitter username
   github: credtiger96
